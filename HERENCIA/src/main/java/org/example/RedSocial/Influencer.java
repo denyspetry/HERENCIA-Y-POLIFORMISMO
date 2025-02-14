@@ -1,4 +1,4 @@
-package org.example;
+package org.example.RedSocial;
 
 import java.util.ArrayList;
 

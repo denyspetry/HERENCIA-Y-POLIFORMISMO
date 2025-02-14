@@ -1,4 +1,4 @@
-package org.example;
+package org.example.RedSocial;
 
 public class Usuario {
     private String nombre;
